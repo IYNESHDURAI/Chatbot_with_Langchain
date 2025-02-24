@@ -1,0 +1,30 @@
+PREPAID CARD SOLUTIONS - StarIFPS
+
+StarIFPS is a “Prepaid Card Issuance and Authorization System” which allows the end customer to run their prepaid card business tailor made to suit their business requirements. It is designed in such a way that all the different kinds of prepaid business logic can be configured in a highly flexible way and provides a very robust environment for authorizing the online prepaid card transactions.
+
+StarIFPS is able to issue prepaid cards for a variety of domains like Banking, College, Health Care, Insurance etc. and allows the end customer to configure the business rules as per their requirements.
+
+StarIFPS is a “PREPAID HOST“ a flexible browser-based application designed to meet the requirements of commercial prepaid card processing and reporting system.
+
+Typically for banking StarIFPS can issue
+
+Gift Card
+Travel Card (Multi-Currency)
+Payroll Card
+Merchandise Card
+Incentive Card
+Campus Card
+Fuel Card etc.
+Supports Wide Variety of Cards
+PCI Compliance & PA-DSS Certified
+Online Commission & Float Posting
+Multi-Currency Support
+Product Highlights
+Bulk Customer Registration and Bulk Top-Up.
+Supports both “Personalized Card” and "Instant Card" Issuance.
+Supports Green PIN / PIN Printing in Pin Mailer.
+Supports Maintenance Activities such as Card Activation, Temp Block, RE-PIN & Close.
+Supports search, view transaction details and generate statements for each card.
+Supports Multi-Institutions & Dispute Management.
+Maintain Audit Trail for each activity in application.
+Supports Fee/Limit/Commission/Discounts for Merchants and Customer cards.

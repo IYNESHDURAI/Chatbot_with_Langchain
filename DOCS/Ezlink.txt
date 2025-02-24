@@ -1,0 +1,26 @@
+EFT SWITCH SOLUTION - EzLink Enterprise EFT Switch
+
+EzLink Enterprise is a PCI S3 Certified, high-performance, credit and debit-processing EFT (Electronic Fund Transfer) switch, capable of authorizing & routing any financial transaction based on the pre-defined rules/configurations. EzLink Enterprise supports a wide variety of platforms and configurations and is tailored to meet clients’ site specific and hardware requirements.
+
+EzLink has the capability to drive any SSTs such as ATM, Kiosk, POS and Teller Terminals directly. External Interface is provided through Standard ISO8583 / ISO20022. EzLink switch is designed to handle the complex flow of acquirer & issuer transactions within as well as across different financial institutions in a very flexible/configurable way, thereby providing the exact solution intended to meet the client requirement.
+
+EzLink supports ISO20022 Messages which offers a universal messaging language throughout the payment chain, on an International scale.
+
+EzLink follows a multi-layered n-tier architecture in which the EzLink modules are deployed over the EzKernel middleware. EzKernel is a very high-performance server-based middleware which can be deployed on any UNIX (Linux, Sun Solaris, IBM AIX) based operating system. EzKernel provides all the essential operating system services to the application (EzLink) deployed over i
+
+Product Highlights
+Supports Fraud & Risk alerts
+Highly Scalable & Fault Tolerant
+RuPay / VISA / MasterCard EMV certified
+24*7 Process Availability
+Supports Contactless & Cardless features
+Unlimited External Port / Device Support
+Capable to drive Cash Deposit & Cash Recycler Machines
+
+KEY SELECTION CRITERIA
+Highly scalable and flexible solution to meet any future requirements
+Completely secure and certified by PCIDSS Council
+Adaptability to sudden changes
+Easy Maintenance
+Stable and Cost-effective solution
+Improved Customer Satisfaction

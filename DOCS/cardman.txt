@@ -1,0 +1,21 @@
+DEBIT CARD MANAGEMENT SYSTEM - StarCARDMAN
+
+StarCARDMAN is a web-based PCI DSS compliant ATM / Debit Card Issuance and Maintenance Software Solution, designed specifically for the banking segment dealing with small to huge clientele base.
+
+It offers services ranging from Registration of cards, Generation of PIN/CVV/CVV2, generation of ASCII files for third party Card Personalization purpose, Link file generation for various ATMs routing Switch to Card Issuance.
+
+StarCARDMAN is capable of generating cards with different interchange formats like VISA, Mastercard, Maestro, RuPay, CUP and/or any other Interchange or National Networks.
+
+Supports both Instant & Personalized Card Issuance
+PCI Compliance & PA-DSS Certified
+Supports Green PIN & Traditional PIN both
+Supports EMV & Magnetic Strip Cards
+Product Highlights
+StarCARDMAN has a richness of 'Client-Server' architecture as well as a web-based module.
+PADSS certified and PCI-DSS compliant product.
+Supports most of the international and national interchanges such as MASTER, VISA, CUP & RuPay.
+Has flexible user management in which different privileges can be assigned / revoked to individual /group of users. Maintain and log detailed audit trail.
+Supports configuration of BIN, Limits, PIN Mailer, and Account Type etc.
+Supports Traditional and Green PIN both.
+Supports Single Card linked with Multiple Account (OAR) and Multiple Cards linked with Single Account.
+

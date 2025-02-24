@@ -1,0 +1,12 @@
+transformers
+langchain
+langchain-community
+langgraph
+chromadb
+sentence-transformers
+streamlit
+tqdm
+huggingface_hub
+pandas
+numpy
+torch
