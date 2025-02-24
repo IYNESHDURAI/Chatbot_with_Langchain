@@ -18,8 +18,10 @@ It retrieves relevant product data from stored embeddings and uses Mistral 7B vi
    cd chatbot-with-langchain
 
 **2.** Install dependencies:
+ ```bash
 pip install -r requirements.txt
 
 
 **3**.Run the chatbot:
+ ```bash
 streamlit run chatbot_ui.py
